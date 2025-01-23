@@ -1,0 +1,1 @@
+# SMA_stock_finder
